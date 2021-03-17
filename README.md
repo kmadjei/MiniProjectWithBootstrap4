@@ -5,7 +5,7 @@
 
 This project presents a Full Front End Development Project in which an online resume site  was built for attracting the attention of recruiters using Bootstrap 4. 
 
- [Quick Preview](https://kmadjei.github.io/MiniProjectWithBootstrap4/)
+👉 [Quick Preview](https://kmadjei.github.io/MiniProjectWithBootstrap4/)
  
 ## UX
 
