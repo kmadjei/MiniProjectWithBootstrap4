@@ -2,12 +2,14 @@
 ![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
 
 # Mini Boostrap 4 Project - Resume
+---
 
 This project presents a Full Front End Development Project in which an online resume site  was built for attracting the attention of recruiters using Bootstrap 4. 
 
 👉 [Quick Preview](https://kmadjei.github.io/MiniProjectWithBootstrap4/)
  
 ## UX
+---
 
 This Bootstrap project is built for the fictious character, Rosie, inorder to get the attention of potential recruiters and future clients. Below are previews of the website design. 
 
@@ -18,6 +20,7 @@ This Bootstrap project is built for the fictious character, Rosie, inorder to ge
 <img src="https://github.com/kmadjei/MiniProjectWithBootstrap4/blob/master/assets/images/rosie-cv3.PNG?raw=true" alt="Mockup-3" width="400px" heigth="300px">
 
 ## Features
+---
 
 This project showcases a basic web structure with 3 pages and a download link in the navigation menu.
  
@@ -31,16 +34,19 @@ This project showcases a basic web structure with 3 pages and a download link in
 - Future project will include API email function
 
 ## Technologies Used
+---
 
 - HTML and CSS were used to style and structure the website
 - [Boostrap 4](https://getbootstrap.com/docs/4.6/getting-started/introduction/)
      - This project uses **Boostrap 4** for the responsive web design
 
 ## Deployment
+---
 
 The project is uploaded on Github it can be view via github pages 👉 [HERE](https://kmadjei.github.io/MiniProjectWithBootstrap4/)
 
 ## Credits
+---
 
 ### Content
 - The contents presented in this project were provided by Code Institute as this was a walkthrough project.
