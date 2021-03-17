@@ -1,10 +1,21 @@
-# Your Project's Name
+![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
+![CBC logo](https://canadianbusinesscollege.com/wp-content/uploads/2020/09/CBC-New-Logo-Website.png)
 
-One or two paragraphs providing an overview of your project.
+# Mini Boostrap 4 Project - Resume
 
-Essentially, this part is your sales pitch.
+This project presents a Full Front End Development Project in which an online resume site  was built for attracting the attention of recruiters using Bootstrap 4. 
+
+ [Quick Preview](https://kmadjei.github.io/MiniProjectWithBootstrap4/)
  
 ## UX
+
+
+> **Mockups**
+> [images........]
+> 
+
+
+
  
 Use this section to provide insight into your UX process, focusing on who this website is for, what it is that they want to achieve and how your project is the best way to help them achieve these things.
 
@@ -73,13 +84,14 @@ In addition, if it is not obvious, you should also describe how to run your code
 ## Credits
 
 ### Content
-- The text for section Y was copied from the [Wikipedia article Z](https://en.wikipedia.org/wiki/Z)
+- The contents presented in this project were provided by Code Institute as this was a walkthrough project.
 
 ### Media
-- The photos used in this site were obtained from ...
+- The photos used in this site were obtained from [Code Institute bootstrap link]
+- Mockup images were screenshots of different views of the website
 
 ### Acknowledgements
 
-- I received inspiration for this project from X
+> I thank Code institute for the lesson of running through a full on project.
+> > In this project I learned how 5 planes of UX Design is applied to building a website in order to produce a quality digital product with no time wasted.  
 
-![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
