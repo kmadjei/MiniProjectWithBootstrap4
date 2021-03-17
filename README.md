@@ -52,8 +52,8 @@ The project is uploaded on Github it can be view via github pages 👉 [HERE](ht
 - The contents presented in this project were provided by Code Institute as this was a walkthrough project.
 
 ### Media
-- The photos used in this site were obtained from [Code Institute bootstrap link]
-- Mockup images were screenshots of different views of the website
+- The photos used in this site were obtained from [Code Institute Bootstrap resume project](https://github.com/Code-Institute-Solutions/resume-miniproject-bootstrap4/tree/master/18-resume-for-download)
+- Mockup images were screenshots of different views of the website [
 
 ### Acknowledgements
 
