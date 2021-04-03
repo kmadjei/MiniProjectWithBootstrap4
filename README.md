@@ -28,7 +28,7 @@ This project showcases a basic web structure with 3 pages and a download link in
 - Home - provides information about Rosie's background
 - Resume Page - showcases Rosie's experiences
 - Contact - shows an online form for getting in touch with Rosie
-- Download link - opens a new webpage for dowloading an electronic copy of Rosie's CV
+- Download link - opens a new webpage for downloading an electronic copy of Rosie's CV
 
 ### Features Left to Implement
 - Future project will include API email function
